@@ -1,0 +1,11 @@
+mi_lista = list(range(0, 11))
+mi_otra_lista = list(range(-10, 1, 1))
+mi_tercer_lista = list(range(0, 21, 2))
+mi_cuarta_lista = list(range(-19, 0, 2))
+mi_ultima_lista = list(range(0, 51, 5))    
+ 
+print(mi_lista)
+print(mi_otra_lista)
+print(mi_tercer_lista)
+print(mi_cuarta_lista)
+print(mi_ultima_lista)
